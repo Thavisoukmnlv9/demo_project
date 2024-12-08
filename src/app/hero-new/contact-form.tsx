@@ -2,7 +2,7 @@ import { Textarea, Input, Card, CardContent, CardHeader, CardTitle, Button  } fr
 
 export function ContactForm() {
   return (
-    <Card className="border-0 shadow-lg bg-gradient-to-br from-blue-500 to-blue-600">
+    <Card className="border-0 shadow-lg bg-gradient-to-br from-blue-300 to-blue-500 w-full">
       <CardHeader>
         <CardTitle className="text-2xl font-bold text-white">Contact Us</CardTitle>
       </CardHeader>

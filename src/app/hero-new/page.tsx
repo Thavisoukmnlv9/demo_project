@@ -187,7 +187,7 @@ export default function HeroNew() {
         <main className="container mx-auto px-4 py-6 space-y-12">
           <MarketNews />
           <Partners />
-          <div className="grid lg:grid-cols-[1fr_400px] gap-8">
+          <div className="grid lg:grid-cols-[1fr_400px] gap-8 bg-gray-50 p-2">
             <div className="h-[400px] rounded-lg bg-muted" />
             <ContactForm />
           </div>
